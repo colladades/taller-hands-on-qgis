@@ -14,3 +14,6 @@ Dades, eines i altres referències útils per treballar amb QGIS i fonts obertes
 - [QGIS Plugins](https://plugins.qgis.org/)
 - [Kepler.gl](https://kepler.gl/)
 - [MapShaper](https://mapshaper.org/)
+
+## Participa!
+Participa a la discussió sobre aquest taller i altres projectes a l'assemblea de la **Colla de les Dades 🎆** a la [plataforma de comunitat del Canòdrom](https://comunitat.canodrom.barcelona/assemblies/colladelesdades/f/2705/meetings/3074?locale=es), Ateneu d'Innovació Digital i Democràtica.
