@@ -1,6 +1,7 @@
 # taller-hands-on-qgis
 Dades, eines i altres referències útils per treballar amb QGIS i fonts obertes de dades geoespacials.
 
+### ⚠️ Repositori migrat a [GitLab](https://gitlab.com/colladades/taller-hands-on-qgis) 🦊✨
 
 ## Fonts de dades geoespacials
 - INE. *Percentatge d'habitatge turístic per seccions censals Espanya.* ([Font](https://www.ine.es/experimental/viv_turistica/experimental_viv_turistica.htm) / [Dades](dades/exp_viv_turistica_tabla5_MAY2025_clean.csv))
